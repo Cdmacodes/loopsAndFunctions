@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="budget2.Budget.to_exit_app" />
+          <option value="budget2.Budget.to_deposit_funds" />
+          <option value="budget2.Budget.to_withdraw_funds" />
+          <option value="budget2.Budget.to_get_balance" />
+          <option value="budget2.Budget.to_transfer_funds" />
+          <option value="budget2.Budget.to_add_new_category" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
